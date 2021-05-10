@@ -4,7 +4,7 @@ Watch Instagram story's and read Direct messages without getting marked as seen.
 
 ## Installation
 
-* Install:
+* **Install**:
 
 ```console
 # clone the repo
@@ -15,19 +15,17 @@ $ python3 -m pip install -r requirements.txt
 
 ```
 
-* Configure system proxy settings:
+- **Configure system proxy settings :**
 
   If you are using ubuntu, go settings > network > network proxy > click manual. Then in http proxy put 127.0.0.1 and http port  8080
 
-* Install certificate:
+* **Install certificate :**
 
   run main.py, then in your browser go to mitm.it download the certificate and follow the 2 steps instruction.
 
-* You're ready to go :).
+###### You're ready to go :)
 
-  > full documentation of Mitmproxy is available [here](https://github.com/mitmproxy/mitmproxy)
-
-  
+> full documentation of Mitmproxy is available [here](https://github.com/mitmproxy/mitmproxy)
 
 ## Usage
 
