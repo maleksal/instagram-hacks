@@ -23,7 +23,7 @@ $ python3 -m pip install -r requirements.txt
 
   run main.py, then in your browser go to mitm.it download the certificate and follow the 2 steps instruction.
 
-###### You're ready to go :)
+### You're ready to go :)
 
 > full documentation of Mitmproxy is available [here](https://github.com/mitmproxy/mitmproxy)
 
